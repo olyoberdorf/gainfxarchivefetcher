@@ -1,0 +1,6 @@
+[GainFXArchiveFetcher]
+years=2015,2016
+pairs=GBP/USD,USD/CAD
+basepath=/home/uesrname/GainFXCache
+host=http://ratedata.gaincapital.com
+
