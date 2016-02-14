@@ -16,7 +16,7 @@ the same directory as the ini file.
 
 ## Notes
 
-I have found the GainFX zipfiles prior to 2009-06-01 to be corrupt.  I haven't checked all files or all pairs, but it seems to be a systemic problem.
+I have found the GainFX csv files, the ones inside the zips, prior to 2009-06-01 to be corrupt.  I haven't checked all files or all pairs, but it seems to be a systemic problem.
 
 ## TODO
 
